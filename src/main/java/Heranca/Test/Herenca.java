@@ -1,8 +1,8 @@
-package hHeranca.Test;
+package Heranca.Test;
 
-import hHeranca.dominio.Endereco;
-import hHeranca.dominio.Funcionario;
-import hHeranca.dominio.Pessoa;
+import Heranca.dominio.Endereco;
+import Heranca.dominio.Funcionario;
+import Heranca.dominio.Pessoa;
 
 public class Herenca {
     public static void main(String[] args) {

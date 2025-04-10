@@ -1,4 +1,4 @@
-package hHeranca.dominio;
+package Heranca.dominio;
 
 import lombok.Getter;
 import lombok.Setter;
